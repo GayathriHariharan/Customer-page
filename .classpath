@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 7 [1.7.0_67]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/appengine-api-1.0-sdk-1.9.34.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/appengine-endpoints-deps.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/appengine-endpoints.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/appengine-jsr107cache-1.9.34.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/asm-4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/datanucleus-api-jdo-3.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/datanucleus-api-jpa-3.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/datanucleus-appengine-1.0.10.final.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/datanucleus-appengine-2.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/datanucleus-core-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/datanucleus-core-3.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/datanucleus-jpa-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/geronimo-jpa_2.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/geronimo-jpa_3.0_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/jackson-annotations-2.6.3.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/jackson-core-2.6.3.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/jackson-databind-2.6.3.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/jdo-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/jsr107cache-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/spring-context-support-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/spring-web-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Desktop/jar/spring-webmvc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/gayathri/Downloads/jackson-mapper-asl-1.9.10.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
